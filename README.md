@@ -28,7 +28,7 @@ Follow the steps below to install and run the project on your local machine.
 
 *1. Clone this repository:*
 ```bash
- git clone https://github.com/your-username/todo-list.git
+ git clone https://github.com/avi1703/To-Do-List/
 ```
 
 
